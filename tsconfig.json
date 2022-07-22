@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es5",
+    "sourceMap": true
+  },
+  "exclude": [
+    "node_modules"
+  ],
+
+  "include": [
+    "root/src",
+    "root/src/types/decs.d.ts",
+    "../../AppData/Local/JetBrains/WebStorm2022.1/javascript/typings/node/16.11.45/node_modules/@types/node/globals.d.ts"
+  ]
+
+}

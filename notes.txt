@@ -1,0 +1,5 @@
+https://administrator.de/knowledge/hafas-fahrplanauskunft-api-sammlung-177145.html
+https://github.com/mymro/oebb-api
+https://github.com/juliuste/oebb
+https://github.com/juliuste/oebb-hafas/
+https://github.com/juliuste/db-prices/
